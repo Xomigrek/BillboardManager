@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bcf5923-0718-4332-91d0-21fee204fd08" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DLueyO9yK529dCYF5oXJ3fcL99" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/Public/Documents/Programing/Java/BillboardManager/src/test/java",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean spotbugs:gui" />
+      <command value="mvn spotbugs:gui" />
+      <command value="mvn clean verify" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.BillboardManagerTest">
+    <configuration name="BillboardManagerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BillboardManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.BillboardManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.BillboardManager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.BillboardManager.BillboardManagerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillboardManagerTest.shouldAddFilm" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BillboardManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.BillboardManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.BillboardManager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.BillboardManager.BillboardManagerTest" />
+      <option name="METHOD_NAME" value="shouldAddFilm" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BillboardManagerTest.shouldFindLastTen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BillboardManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.netology.BillboardManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.netology.BillboardManager" />
+      <option name="MAIN_CLASS_NAME" value="ru.netology.BillboardManager.BillboardManagerTest" />
+      <option name="METHOD_NAME" value="shouldFindLastTen" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BillboardManagerTest" />
+        <item itemvalue="JUnit.BillboardManagerTest.shouldFindLastTen" />
+        <item itemvalue="JUnit.BillboardManagerTest.shouldAddFilm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bcf5923-0718-4332-91d0-21fee204fd08" name="Changes" comment="" />
+      <created>1660490786899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660490786899</updated>
+    </task>
+    <servers />
+  </component>
+</project>
